@@ -112,7 +112,7 @@ export default function Home() {
                         <Mic className="w-8 h-8 text-white" />
                     </div>
                     <h1 className="text-5xl font-black tracking-tight text-gray-900">
-                        AI Podcast Generator
+                        Podcrafter
                     </h1>
                     <p className="text-xl text-gray-500 max-w-2xl mx-auto">
                         Turn any article or topic into an engaging multi-speaker podcast episode instantly.
